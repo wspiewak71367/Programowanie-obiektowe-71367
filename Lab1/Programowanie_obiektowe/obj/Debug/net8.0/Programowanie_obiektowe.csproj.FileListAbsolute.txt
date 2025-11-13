@@ -1,0 +1,14 @@
+C:\Users\woj19\source\repos\Programowanie_obiektowe\Programowanie_obiektowe\bin\Debug\net8.0\Programowanie_obiektowe.exe
+C:\Users\woj19\source\repos\Programowanie_obiektowe\Programowanie_obiektowe\bin\Debug\net8.0\Programowanie_obiektowe.deps.json
+C:\Users\woj19\source\repos\Programowanie_obiektowe\Programowanie_obiektowe\bin\Debug\net8.0\Programowanie_obiektowe.runtimeconfig.json
+C:\Users\woj19\source\repos\Programowanie_obiektowe\Programowanie_obiektowe\bin\Debug\net8.0\Programowanie_obiektowe.dll
+C:\Users\woj19\source\repos\Programowanie_obiektowe\Programowanie_obiektowe\bin\Debug\net8.0\Programowanie_obiektowe.pdb
+C:\Users\woj19\source\repos\Programowanie_obiektowe\Programowanie_obiektowe\obj\Debug\net8.0\Programowanie_obiektowe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\woj19\source\repos\Programowanie_obiektowe\Programowanie_obiektowe\obj\Debug\net8.0\Programowanie_obiektowe.AssemblyInfoInputs.cache
+C:\Users\woj19\source\repos\Programowanie_obiektowe\Programowanie_obiektowe\obj\Debug\net8.0\Programowanie_obiektowe.AssemblyInfo.cs
+C:\Users\woj19\source\repos\Programowanie_obiektowe\Programowanie_obiektowe\obj\Debug\net8.0\Programowanie_obiektowe.csproj.CoreCompileInputs.cache
+C:\Users\woj19\source\repos\Programowanie_obiektowe\Programowanie_obiektowe\obj\Debug\net8.0\Programowanie_obiektowe.dll
+C:\Users\woj19\source\repos\Programowanie_obiektowe\Programowanie_obiektowe\obj\Debug\net8.0\refint\Programowanie_obiektowe.dll
+C:\Users\woj19\source\repos\Programowanie_obiektowe\Programowanie_obiektowe\obj\Debug\net8.0\Programowanie_obiektowe.pdb
+C:\Users\woj19\source\repos\Programowanie_obiektowe\Programowanie_obiektowe\obj\Debug\net8.0\Programowanie_obiektowe.genruntimeconfig.cache
+C:\Users\woj19\source\repos\Programowanie_obiektowe\Programowanie_obiektowe\obj\Debug\net8.0\ref\Programowanie_obiektowe.dll
