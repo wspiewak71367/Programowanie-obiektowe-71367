@@ -1,1 +1,185 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Programowanie_obiektowe
+{
+    internal class TaskLab1
+    {
+        public void Run()
+        {
+            Zadanie1();
+            Zadanie2();
+            Zadanie3();
+            Zadanie4();
+            Zadanie5();
+        }
+
+
+        /// <summary>
+        /// Zadanie1: Oblicza wyróżnik delty i wyznacza pierwiastki rownania kwadratowego
+        /// </summary>
+        private void Zadanie1()
+        {
+            double delta, x1, x2;
+            Console.WriteLine("Podaj wartość a: ");
+            double a = Convert.ToDouble(Console.ReadLine());
+
+            Console.WriteLine("Podaj wartość b: ");
+            double b = Convert.ToDouble(Console.ReadLine());
+
+            Console.WriteLine("Podaj wartość c: ");
+            double c = Convert.ToDouble(Console.ReadLine());
+
+            if (a != 0)
+            {
+                delta = (b * b) - (4 * a * c);
+
+                if (delta < 0) Console.WriteLine("Brak rozwiązania w zbiorze liczb rzeczywistych");
+                else if (delta > 0)
+                {
+                    x1 = (-b - Math.Sqrt(delta)) / (2 * a);
+                    x2 = (-b + Math.Sqrt(delta)) / (2 * a);
+                    Console.WriteLine($"Dwa rozwiązania x1 = {x1:F2}, \t x2 = {x2:F2}");
+                }
+                else
+                {
+                    x1 = -b / (2 * a);
+                    Console.WriteLine($"Wynik rozwiązania to {x1:F2}");
+                }
+            }
+            else
+            {
+                Console.WriteLine("To nie jest równanie kwadratowe");
+            }
+
+
+
+
+
+        }
+
+        /// <summary>
+        /// Zadanie2
+        /// </summary>
+        /// 
+
+        private void Zadanie2()
+        {
+            int[] liczby = new int[10];
+
+            Console.WriteLine("Podaj 10 liczb: ");
+            for (int i = 0; i < 10; i++)
+            {
+                liczby[i] = int.Parse(Console.ReadLine());
+            }
+
+            int suma = 0;
+            int iloczyn = 0;
+
+            for (int i = 0; i < 10; i++)
+            {
+                suma += liczby[i];
+                iloczyn *= liczby[i];
+            }
+
+            double srednia = (double)suma / 10;
+
+            int Min = liczby[0];
+            int Max = liczby[0];
+
+            for (int i = 0; i < 10; i++)
+            {
+                if (liczby[i] < Min)
+                    Min = liczby[i];
+                if (liczby[i] > Max)
+                    Max = liczby[i];
+            }
+
+            Console.WriteLine($"Suma: {suma}");
+            Console.WriteLine($"Iloczyn: {iloczyn}");
+            Console.WriteLine($"Srednia: {srednia}");
+            Console.WriteLine($"Minimalna: {Min}");
+            Console.WriteLine($"Makszymalna: {Max}");
+
+        }
+
+        /// <summary>
+        /// Zadanie 3
+        /// </summary>
+        /// 
+
+        private void Zadanie3()
+        {
+            for (int i = 20; i >= 0; i--)
+            {
+                if (i == 2 || i == 6 || i == 9 || i == 15 || i == 19)
+                    continue;
+                Console.WriteLine(i);
+
+            }
+        }
+
+        /// <summary>
+        /// Zadanie 4
+        /// </summary>
+        /// 
+
+
+        private void Zadanie4()
+        {
+
+            while (true)
+            {
+                Console.WriteLine("Podaj liczbe całkowitą: ");
+                int liczba = int.Parse(Console.ReadLine());
+
+                if (liczba < 0)
+                {
+                    Console.WriteLine($"Podana liczba jest mniejsza od 0: {liczba}");
+                    break;
+                }
+            }
+        }
+
+        private void Zadanie5() 
+        { 
+            Console.WriteLine("Podaj liczbe elementów do sortowania: ");
+            int n = int.Parse(Console.ReadLine());
+
+            int[] liczby= new int[n];
+
+            Console.WriteLine("Podaj liczby: ");
+            for (int i = 0; i < n; i++)
+            {
+                liczby[i] = int.Parse(Console.ReadLine());
+            }
+        
+            for (int i = 0;i < n - 1; i++)
+            {
+                for (int j = 0; j < n - 1; j++)
+                {
+                    if (liczby[j] >  liczby[j + 1])
+                    {
+                        int temp = liczby[j];
+                        liczby[j] = liczby[j + 1];
+                        liczby[j + 1] = temp;
+                    }
+                }
+            }
+
+            Console.WriteLine("Posortowane liczby: ");
+            foreach (int liczba in liczby)
+            {
+                Console.WriteLine(liczba);
+            }
+
+
+        
+        }
+
+    }
+}
 
