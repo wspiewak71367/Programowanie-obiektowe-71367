@@ -1,0 +1,14 @@
+C:\Users\woj19\source\repos\Lab4_zad3\Lab4_zad3\bin\Debug\net8.0\Lab4_zad3.exe
+C:\Users\woj19\source\repos\Lab4_zad3\Lab4_zad3\bin\Debug\net8.0\Lab4_zad3.deps.json
+C:\Users\woj19\source\repos\Lab4_zad3\Lab4_zad3\bin\Debug\net8.0\Lab4_zad3.runtimeconfig.json
+C:\Users\woj19\source\repos\Lab4_zad3\Lab4_zad3\bin\Debug\net8.0\Lab4_zad3.dll
+C:\Users\woj19\source\repos\Lab4_zad3\Lab4_zad3\bin\Debug\net8.0\Lab4_zad3.pdb
+C:\Users\woj19\source\repos\Lab4_zad3\Lab4_zad3\obj\Debug\net8.0\Lab4_zad3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\woj19\source\repos\Lab4_zad3\Lab4_zad3\obj\Debug\net8.0\Lab4_zad3.AssemblyInfoInputs.cache
+C:\Users\woj19\source\repos\Lab4_zad3\Lab4_zad3\obj\Debug\net8.0\Lab4_zad3.AssemblyInfo.cs
+C:\Users\woj19\source\repos\Lab4_zad3\Lab4_zad3\obj\Debug\net8.0\Lab4_zad3.csproj.CoreCompileInputs.cache
+C:\Users\woj19\source\repos\Lab4_zad3\Lab4_zad3\obj\Debug\net8.0\Lab4_zad3.dll
+C:\Users\woj19\source\repos\Lab4_zad3\Lab4_zad3\obj\Debug\net8.0\refint\Lab4_zad3.dll
+C:\Users\woj19\source\repos\Lab4_zad3\Lab4_zad3\obj\Debug\net8.0\Lab4_zad3.pdb
+C:\Users\woj19\source\repos\Lab4_zad3\Lab4_zad3\obj\Debug\net8.0\Lab4_zad3.genruntimeconfig.cache
+C:\Users\woj19\source\repos\Lab4_zad3\Lab4_zad3\obj\Debug\net8.0\ref\Lab4_zad3.dll
