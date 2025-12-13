@@ -1,0 +1,14 @@
+C:\Users\woj19\source\repos\Lab3\Lab3\bin\Debug\net8.0\Lab3.1.exe
+C:\Users\woj19\source\repos\Lab3\Lab3\bin\Debug\net8.0\Lab3.1.deps.json
+C:\Users\woj19\source\repos\Lab3\Lab3\bin\Debug\net8.0\Lab3.1.runtimeconfig.json
+C:\Users\woj19\source\repos\Lab3\Lab3\bin\Debug\net8.0\Lab3.1.dll
+C:\Users\woj19\source\repos\Lab3\Lab3\bin\Debug\net8.0\Lab3.1.pdb
+C:\Users\woj19\source\repos\Lab3\Lab3\obj\Debug\net8.0\Lab3.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\woj19\source\repos\Lab3\Lab3\obj\Debug\net8.0\Lab3.1.AssemblyInfoInputs.cache
+C:\Users\woj19\source\repos\Lab3\Lab3\obj\Debug\net8.0\Lab3.1.AssemblyInfo.cs
+C:\Users\woj19\source\repos\Lab3\Lab3\obj\Debug\net8.0\Lab3.1.csproj.CoreCompileInputs.cache
+C:\Users\woj19\source\repos\Lab3\Lab3\obj\Debug\net8.0\Lab3.1.dll
+C:\Users\woj19\source\repos\Lab3\Lab3\obj\Debug\net8.0\refint\Lab3.1.dll
+C:\Users\woj19\source\repos\Lab3\Lab3\obj\Debug\net8.0\Lab3.1.pdb
+C:\Users\woj19\source\repos\Lab3\Lab3\obj\Debug\net8.0\Lab3.1.genruntimeconfig.cache
+C:\Users\woj19\source\repos\Lab3\Lab3\obj\Debug\net8.0\ref\Lab3.1.dll
