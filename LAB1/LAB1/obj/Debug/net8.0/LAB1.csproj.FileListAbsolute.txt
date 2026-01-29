@@ -1,0 +1,14 @@
+C:\Users\Wojtek\source\repos\LAB1\LAB1\obj\Debug\net8.0\LAB1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wojtek\source\repos\LAB1\LAB1\obj\Debug\net8.0\LAB1.AssemblyInfoInputs.cache
+C:\Users\Wojtek\source\repos\LAB1\LAB1\obj\Debug\net8.0\LAB1.AssemblyInfo.cs
+C:\Users\Wojtek\source\repos\LAB1\LAB1\obj\Debug\net8.0\LAB1.csproj.CoreCompileInputs.cache
+C:\Users\Wojtek\source\repos\LAB1\LAB1\bin\Debug\net8.0\LAB1.exe
+C:\Users\Wojtek\source\repos\LAB1\LAB1\bin\Debug\net8.0\LAB1.deps.json
+C:\Users\Wojtek\source\repos\LAB1\LAB1\bin\Debug\net8.0\LAB1.runtimeconfig.json
+C:\Users\Wojtek\source\repos\LAB1\LAB1\bin\Debug\net8.0\LAB1.dll
+C:\Users\Wojtek\source\repos\LAB1\LAB1\bin\Debug\net8.0\LAB1.pdb
+C:\Users\Wojtek\source\repos\LAB1\LAB1\obj\Debug\net8.0\LAB1.dll
+C:\Users\Wojtek\source\repos\LAB1\LAB1\obj\Debug\net8.0\refint\LAB1.dll
+C:\Users\Wojtek\source\repos\LAB1\LAB1\obj\Debug\net8.0\LAB1.pdb
+C:\Users\Wojtek\source\repos\LAB1\LAB1\obj\Debug\net8.0\LAB1.genruntimeconfig.cache
+C:\Users\Wojtek\source\repos\LAB1\LAB1\obj\Debug\net8.0\ref\LAB1.dll
