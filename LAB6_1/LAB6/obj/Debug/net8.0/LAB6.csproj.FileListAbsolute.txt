@@ -1,0 +1,14 @@
+C:\Users\Wojtek\source\repos\LAB6_1\LAB6\obj\Debug\net8.0\LAB6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wojtek\source\repos\LAB6_1\LAB6\obj\Debug\net8.0\LAB6.AssemblyInfoInputs.cache
+C:\Users\Wojtek\source\repos\LAB6_1\LAB6\obj\Debug\net8.0\LAB6.AssemblyInfo.cs
+C:\Users\Wojtek\source\repos\LAB6_1\LAB6\obj\Debug\net8.0\LAB6.csproj.CoreCompileInputs.cache
+C:\Users\Wojtek\source\repos\LAB6_1\LAB6\bin\Debug\net8.0\LAB6.exe
+C:\Users\Wojtek\source\repos\LAB6_1\LAB6\bin\Debug\net8.0\LAB6.deps.json
+C:\Users\Wojtek\source\repos\LAB6_1\LAB6\bin\Debug\net8.0\LAB6.runtimeconfig.json
+C:\Users\Wojtek\source\repos\LAB6_1\LAB6\bin\Debug\net8.0\LAB6.dll
+C:\Users\Wojtek\source\repos\LAB6_1\LAB6\bin\Debug\net8.0\LAB6.pdb
+C:\Users\Wojtek\source\repos\LAB6_1\LAB6\obj\Debug\net8.0\LAB6.dll
+C:\Users\Wojtek\source\repos\LAB6_1\LAB6\obj\Debug\net8.0\refint\LAB6.dll
+C:\Users\Wojtek\source\repos\LAB6_1\LAB6\obj\Debug\net8.0\LAB6.pdb
+C:\Users\Wojtek\source\repos\LAB6_1\LAB6\obj\Debug\net8.0\LAB6.genruntimeconfig.cache
+C:\Users\Wojtek\source\repos\LAB6_1\LAB6\obj\Debug\net8.0\ref\LAB6.dll
